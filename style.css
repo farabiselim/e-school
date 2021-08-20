@@ -52,3 +52,14 @@
 .portfolio{
     margin-left: 200px;
 }
+.footer-information{
+    background-color: darkslategray;
+    padding: 15px 5px;
+}
+.footer-information h5{
+    color: white;
+}
+footer{
+    background-color: darkslategray;
+    color: white;
+}
