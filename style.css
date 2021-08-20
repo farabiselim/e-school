@@ -1,0 +1,28 @@
+.topmargin{
+    margin-top: 50px;
+}
+.ntext{
+    color: black;
+    padding: 13px;
+    font-weight: bold;
+}
+.botton{
+    color: white;
+    padding: 13px 35px;
+    background-color: green;
+    border: none;
+    border-radius: 35px;
+}
+.cat-img{
+    height: 65px;
+    width: 55px;
+    margin-left: 60px;
+    margin-bottom: 15px;
+}
+.catbox h5{
+    text-align: center;
+}
+.border{
+    margin: 0px;
+    padding: 55px 40px;
+}
