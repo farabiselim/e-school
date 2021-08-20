@@ -1,3 +1,7 @@
+/* common */
+.banner-section, .navber-section{
+    background: #F0FFF0;
+} 
 .topmargin{
     margin-top: 50px;
 }
@@ -12,9 +16,9 @@
 .botton{
     color: white;
     padding: 13px 35px;
-    background-color: green;
+    background-color: #21B573;
     border: none;
-    border-radius: 35px;
+    border-radius: 33px;
 }
 .cat-img{
     height: 65px;
@@ -43,23 +47,21 @@
     border: 10px solid black;
 }
 .cardfoot{
-    padding: 35px 0;
+    padding: 35px 0 10px 0;
 }
 .cardfoot p{
     padding-top: 17px;
     padding-left: 8px;
 }
-.portfolio{
-    margin-left: 200px;
-}
 .footer-information{
-    background-color: darkslategray;
     padding: 15px 5px;
 }
 .footer-information h5{
     color: white;
 }
 footer{
-    background-color: darkslategray;
     color: white;
+}
+.footer-inform-section, .footer-section{
+    background-color: #282531;
 }
