@@ -61,6 +61,8 @@
 }
 footer{
     color: white;
+    padding-top: 40px;
+    padding-bottom: 30px;
 }
 .footer-inform-section, .footer-section{
     background-color: #282531;
