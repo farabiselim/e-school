@@ -8,6 +8,12 @@
 .marginbuttom{
     margin-bottom: 90px;
 }
+.ontext{
+    color: #21B573;
+}
+.orntext{
+    color: #FD511A;
+}
 .ntext{
     color: black;
     padding: 13px;
@@ -32,7 +38,8 @@
 .catbox{
     margin: 0px;
     padding: 60px 40px;
-    background-color: lightcyan;
+    background-color: #F8FFFB;
+    border: none !important;
     border-radius: 10px;
 }
 .catbox:hover{
@@ -54,7 +61,7 @@
     padding-left: 8px;
 }
 .footer-information{
-    padding: 15px 5px;
+    padding: 60px 5px;
 }
 .footer-information h5{
     color: white;
